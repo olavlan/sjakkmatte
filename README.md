@@ -2,7 +2,7 @@
 
 Her er materialet til *Sjakkmatte*, som inneholder morsomt undervisningsopplegg som kobler sjakk og matematikk. Laget for ungdomsskolen, men kan kanskje brukes på andre trinn.
 
-Denne siden kan også nås gjennom linken [bit.ly/sjakkmatte](https://bit.ly/sjakkmatte).
+Denne siden kan også nås gjennom URL-en bit.ly/sjakkmatte.
 
 ## Kurshefte for lærere
 
