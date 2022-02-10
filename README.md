@@ -1,6 +1,8 @@
 # Sjakkmatte
 
-Her er materialet til *Sjakkmatte*, et opplegg for å bruke sjakk i matematikkundervisningen på ungdomsskolen.
+Her er materialet til *Sjakkmatte*, som inneholder morsomt undervisningsopplegg som kobler sjakk og matematikk. Laget for ungdomsskolen, men kan kanskje brukes på andre trinn.
+
+Denne siden kan også nås gjennom linken [](bit.ly/sjakkmatte).
 
 ## Kurshefte for lærere
 
