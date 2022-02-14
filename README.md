@@ -1,6 +1,6 @@
 # Sjakkmatte
 
-Her er interaktivt materiale til *Sjakkmatte*, som inneholder morsomt undervisningsopplegg som kobler sjakk og matematikk. Laget for ungdomsskolen, men kan kanskje brukes på andre trinn.
+Her er materiale til *Sjakkmatte*, som inneholder morsomt undervisningsopplegg som kobler sjakk og matematikk. Laget for ungdomsskolen, men kan kanskje brukes på andre trinn.
 
 ## Sjakkmatte med Python
 
