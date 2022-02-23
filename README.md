@@ -4,7 +4,7 @@ Her er materiale til *Sjakkmatte*, som inneholder morsomt undervisningsopplegg s
 
 ## Oppgaver med programmering
 
-Veiledning for oppgaver i heftet der programmering kan brukes. 
+Veiledning for oppgaver i heftet der programmering kan brukes. Det er en fordel å ha gått gjennom innføringen i [Python-kurset](#sjakkmatte-med-python).
 
 Kongevandring: 
 
