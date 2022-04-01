@@ -15,6 +15,6 @@ For elever: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.or
 
 Oppgaver med fokus på tilfeldige forsøk og sannsynlighet.
 
-<a href="kongevei.pdf">Oppgavehefte<\>
+<a href="kongevei.pdf">Oppgavehefte<\a>
 
 Simulering av tilfeldige tårn: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olavlan/sjakkmatte/HEAD?labpath=tilfeldig_tarn.ipynb)
