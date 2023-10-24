@@ -2,7 +2,7 @@
 
 *Sjakkmatte* inneholder morsomt undervisningsopplegg som kobler sjakk og matematikk. Innholdet er laget for ungdomsskolen, men kan kanskje brukes på andre trinn.
 
-* [Oversikt over oppgaver](sjakkmatte.pdf) (uferdig)
+* [Oversikt over oppgaver og relevante læringsmål](sjakkmatte.pdf) (uferdig)
 * [Brikkeverdier og likningssystemer](brikkeverdier.pdf)
 * [Sjakk og programmering](#sjakk-og-programmering)
 * [Sjakk og sannsynlighet](#sjakk-og-sannsynlighet) (uferdig)
